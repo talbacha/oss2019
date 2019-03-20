@@ -11,9 +11,9 @@ room_layout  :                    #
 room_id      :
 session_slack:
 status       : review-content
-description  :
-organizers   :
-participants :
+description  : Review the latest approahces to hack ML based applications, and discuss the defence techniques.
+organizers   : Talal Albacha
+participants : 
 
 ---
 
